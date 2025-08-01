@@ -1,0 +1,14 @@
+D:\git\C# learning\temperature_converter\bin\Debug\net9.0\temperature_converter.exe
+D:\git\C# learning\temperature_converter\bin\Debug\net9.0\temperature_converter.deps.json
+D:\git\C# learning\temperature_converter\bin\Debug\net9.0\temperature_converter.runtimeconfig.json
+D:\git\C# learning\temperature_converter\bin\Debug\net9.0\temperature_converter.dll
+D:\git\C# learning\temperature_converter\bin\Debug\net9.0\temperature_converter.pdb
+D:\git\C# learning\temperature_converter\obj\Debug\net9.0\temperature_converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C# learning\temperature_converter\obj\Debug\net9.0\temperature_converter.AssemblyInfoInputs.cache
+D:\git\C# learning\temperature_converter\obj\Debug\net9.0\temperature_converter.AssemblyInfo.cs
+D:\git\C# learning\temperature_converter\obj\Debug\net9.0\temperature_converter.csproj.CoreCompileInputs.cache
+D:\git\C# learning\temperature_converter\obj\Debug\net9.0\temperature_converter.dll
+D:\git\C# learning\temperature_converter\obj\Debug\net9.0\refint\temperature_converter.dll
+D:\git\C# learning\temperature_converter\obj\Debug\net9.0\temperature_converter.pdb
+D:\git\C# learning\temperature_converter\obj\Debug\net9.0\temperature_converter.genruntimeconfig.cache
+D:\git\C# learning\temperature_converter\obj\Debug\net9.0\ref\temperature_converter.dll
