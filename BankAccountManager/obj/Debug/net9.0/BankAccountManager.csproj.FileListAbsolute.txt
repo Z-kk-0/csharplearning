@@ -1,0 +1,15 @@
+D:\git\C# learning\BankAccountManager\obj\Debug\net9.0\BankAccountManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C# learning\BankAccountManager\obj\Debug\net9.0\BankAccountManager.AssemblyInfoInputs.cache
+D:\git\C# learning\BankAccountManager\obj\Debug\net9.0\BankAccountManager.AssemblyInfo.cs
+D:\git\C# learning\BankAccountManager\obj\Debug\net9.0\BankAccountManager.csproj.CoreCompileInputs.cache
+D:\git\C# learning\BankAccountManager\obj\Debug\net9.0\BankAccountManager.sourcelink.json
+D:\git\C# learning\BankAccountManager\bin\Debug\net9.0\BankAccountManager.exe
+D:\git\C# learning\BankAccountManager\bin\Debug\net9.0\BankAccountManager.deps.json
+D:\git\C# learning\BankAccountManager\bin\Debug\net9.0\BankAccountManager.runtimeconfig.json
+D:\git\C# learning\BankAccountManager\bin\Debug\net9.0\BankAccountManager.dll
+D:\git\C# learning\BankAccountManager\bin\Debug\net9.0\BankAccountManager.pdb
+D:\git\C# learning\BankAccountManager\obj\Debug\net9.0\BankAccountManager.dll
+D:\git\C# learning\BankAccountManager\obj\Debug\net9.0\refint\BankAccountManager.dll
+D:\git\C# learning\BankAccountManager\obj\Debug\net9.0\BankAccountManager.pdb
+D:\git\C# learning\BankAccountManager\obj\Debug\net9.0\BankAccountManager.genruntimeconfig.cache
+D:\git\C# learning\BankAccountManager\obj\Debug\net9.0\ref\BankAccountManager.dll

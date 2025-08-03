@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\C# learning\\BankAccountManager\\BankAccountManager.csproj": {}
+    "D:\\git\\C# learning\\ExpenseTracker\\ExpenseTracker.csproj": {}
   },
   "projects": {
-    "D:\\git\\C# learning\\BankAccountManager\\BankAccountManager.csproj": {
+    "D:\\git\\C# learning\\ExpenseTracker\\ExpenseTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\C# learning\\BankAccountManager\\BankAccountManager.csproj",
-        "projectName": "BankAccountManager",
-        "projectPath": "D:\\git\\C# learning\\BankAccountManager\\BankAccountManager.csproj",
+        "projectUniqueName": "D:\\git\\C# learning\\ExpenseTracker\\ExpenseTracker.csproj",
+        "projectName": "ExpenseTracker",
+        "projectPath": "D:\\git\\C# learning\\ExpenseTracker\\ExpenseTracker.csproj",
         "packagesPath": "C:\\Users\\maxha\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\C# learning\\BankAccountManager\\obj\\",
+        "outputPath": "D:\\git\\C# learning\\ExpenseTracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maxha\\AppData\\Roaming\\NuGet\\NuGet.Config"

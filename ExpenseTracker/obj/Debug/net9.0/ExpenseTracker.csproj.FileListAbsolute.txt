@@ -1,0 +1,15 @@
+D:\git\C# learning\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\C# learning\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.AssemblyInfoInputs.cache
+D:\git\C# learning\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.AssemblyInfo.cs
+D:\git\C# learning\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.csproj.CoreCompileInputs.cache
+D:\git\C# learning\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.sourcelink.json
+D:\git\C# learning\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.exe
+D:\git\C# learning\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.deps.json
+D:\git\C# learning\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.runtimeconfig.json
+D:\git\C# learning\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.dll
+D:\git\C# learning\ExpenseTracker\bin\Debug\net9.0\ExpenseTracker.pdb
+D:\git\C# learning\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.dll
+D:\git\C# learning\ExpenseTracker\obj\Debug\net9.0\refint\ExpenseTracker.dll
+D:\git\C# learning\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.pdb
+D:\git\C# learning\ExpenseTracker\obj\Debug\net9.0\ExpenseTracker.genruntimeconfig.cache
+D:\git\C# learning\ExpenseTracker\obj\Debug\net9.0\ref\ExpenseTracker.dll
